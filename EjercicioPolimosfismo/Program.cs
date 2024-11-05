@@ -14,6 +14,9 @@ namespace EjercicioPolimosfismo
 
             gerente.MostrarInformacion();
             Console.WriteLine();
+
+            desarrollador.MostrarInformacion();
+            Console.WriteLine();    
         }
     }
 }
